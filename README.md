@@ -1,6 +1,6 @@
 # Example hugo site
 
-<https://todo.tld/>
+<https://demo-hugo-site-henryfbp.netlify.app/>
 
 ## Cloning
 
